@@ -46,13 +46,6 @@ npm install
 
 ```
 
-#### Creating your Database
-On the *server* folder, execute: 
-```sh
-
-npm  knex:migrate
-
-```
 #### Initializing the application 
 ```sh
 
